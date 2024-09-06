@@ -1,0 +1,28 @@
+body{
+
+    background-image: linear-gradient( rgb(253, 177, 34), white );
+}
+
+.botaoeditar{
+    background-color: orange;
+    color: black;
+    border: solid 25%;
+    border-color: black;
+    border-width: 25%;
+    border-radius: 15%;
+    
+
+}
+
+.botaoapagar{
+    background-color: brown;
+    color: black;
+    border: solid 25%;
+    border-color: black;
+    border-width: 25%;
+    border-radius: 25%;
+}
+
+.curvadinho{
+    border-radius: 15%;
+}
